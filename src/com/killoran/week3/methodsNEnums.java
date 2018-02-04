@@ -2,6 +2,7 @@ package com.killoran.week3;
 import java.util.*;
 
 
+
 /**
  * Created by MK on 1/31/2018.
  *
@@ -139,11 +140,6 @@ public class methodsNEnums {
                 break;
         }
     }
-
-
-
-
-
 
 
 
